@@ -52,7 +52,9 @@ header {
 
 h2 {
   color:antiquewhite;
-  font-family: monospace;  
+  font-family: monospace;
+  border: 2px solid white;
+  font-size: 30px;
 }
 
 p {
@@ -73,7 +75,8 @@ p::first-line {
 
 footer {
   color:azure;
-  font-family: monospace;
+  font-family:monospace;
+  font-variant-caps: all-petite-caps;
 }
 
 h3 {
@@ -89,6 +92,7 @@ ul {
 figcaption {
   color:paleturquoise;
   font-family: monospace;
+  border: 1px solid white;
 }
 
 
