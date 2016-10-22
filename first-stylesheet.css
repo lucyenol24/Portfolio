@@ -25,6 +25,10 @@ h1::after {
   content: url(https://cdn.drawception.com/images/panels/2014/10-12/5kfZGMFnym-1.png);
 }
 
+img {
+  border: 2px solid yellow;
+}
+
 a {
   color:hotpink;
 }
