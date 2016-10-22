@@ -1,12 +1,23 @@
 <style>
 
-    body {
+body {
       text-align: center;
-      color:blueviolet;
       font-family:monospace;
       word-spacing:normal;
       letter-spacing: normal;
        }
+
+/* i have no idea why if i delete the above part the background information goes away*/
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  color:aquamarine;
+  font-family:monospace;
+  word-spacing: inherit;
+  letter-spacing: normal;
+  border: 2px solid white;
+}
 
 body {
   background-color:black;
@@ -17,26 +28,16 @@ body {
   
 }
 
-h1 {
-  text-align: center;
-  color:aquamarine;
-  font-family: monospace;
-  word-spacing: normal;
-  letter-spacing: normal; 
-}
-
 header {
   color:aquamarine;
   font-family: monospace;
   word-spacing: normal;
-  letter-spacing: normal;
-  
+  letter-spacing: normal;  
 }
 
 h2 {
   color:antiquewhite;
-  font-family: monospace;
-  
+  font-family: monospace;  
 }
 
 p {
@@ -45,8 +46,7 @@ p {
   border: 2px solid white;
   padding: 1rem;
   margin-top: 5em;
-  margin-bottom: 5em;
-  
+  margin-bottom: 5em;  
 }
 
 footer {
