@@ -1,14 +1,76 @@
 <style>
-  body
-    p {
-      background-image: url(https://static.pexels.com/photos/5770/leaf-spring-leaves-plants.jpg);
-      color:whitesmoke;
-      font-family: "courier new", courier, monospace;
-      }
-    h1 {
+
+    body {
       text-align: center;
+      color:blueviolet;
+      font-family:monospace;
+      word-spacing:normal;
+      letter-spacing: normal;
        }
 
+body {
+  background-color:black;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+h1 {
+  text-align: center;
+  color:aquamarine;
+  font-family: monospace;
+  word-spacing: normal;
+  letter-spacing: normal; 
+}
+
+header {
+  color:aquamarine;
+  font-family: monospace;
+  word-spacing: normal;
+  letter-spacing: normal;
+  
+}
+
+h2 {
+  color:antiquewhite;
+  font-family: monospace;
+  
+}
+
+p {
+  color:paleturquoise;
+  font-family: monospace;
+  border: 2px solid white;
+  padding: 1rem;
+  margin-top: 5em;
+  margin-bottom: 5em;
+  
+}
+
+footer {
+  color:azure;
+  font-family: monospace;
+}
+
+h3 {
+  color:deepskyblue;
+  font-family: monospace;
+}
+
+ul {
+  color:mediumpurple;
+  font-family: monospace;
+}
+
+figcaption {
+  color:paleturquoise;
+  font-family: monospace;
+}
+
+
+</style> 
     
     
    
