@@ -1,13 +1,8 @@
-<style>
-
 body {
-      text-align: center;
-      font-family:monospace;
-      word-spacing:normal;
-      letter-spacing: normal;
-      width: 150%;
-      height: 200px;
-       }
+  text-align: center;
+  font-family: monospace;
+  background-color: green;
+      }
 
 /* i have no idea why if i delete the above part the background information goes away*/
 
@@ -50,15 +45,6 @@ a:hover {
 
 article {
   text-align: center;
-}
-
-body {
-  background-color: black;
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-left: auto;
-  margin-right: auto;
-  
 }
 
 header {
@@ -111,13 +97,7 @@ figcaption {
   color:paleturquoise;
   font-family: monospace;
   border: 1px solid white;
-}
-
-
-</style> 
-    
-    
-   
+} 
 
 
 
