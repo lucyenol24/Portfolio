@@ -20,12 +20,13 @@ h4 {
 }
 
 nav {
-  margin-left: 30%;
+  text-align: center;
   width: 80%;
   font-size: 20px;
-  border-color: white;
+  border-color: yellow;
   border-width: medium;
 }
+/*margin-left: 30%;*/
 
 a:link, a:visited {
   color: lightcyan;
