@@ -12,7 +12,7 @@ header {
 h1 {
   color: white;
   padding: 0.5rem;
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'Bungee Hairline', cursive;
 }
 
 h4 {
@@ -20,7 +20,7 @@ h4 {
 }
 
 nav {
-  margin-left: 20%;
+  margin-left: 10%;
   font-size: 20px;
 }
 /*need to figure out how to center this better*/
