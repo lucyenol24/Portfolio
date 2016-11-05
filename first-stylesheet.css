@@ -1,6 +1,7 @@
 body {
   background-image: url(http://openwalls.com/image/3414/lightning_thunderstorm_1_2560x1600.jpg);
   font-family: 'Inconsolata', monospace;
+  text-align: center;
 }
 
 header {
@@ -16,16 +17,15 @@ h1 {
 }
 
 h4 {
-  color: white;
+  color: lightcyan;
 }
 
 nav {
   margin-left: 28%;
-  width: 80%;
+  width: 70%;
   font-size: 20px;
-  border-color: yellow;
-  border-width: medium;
 }
+/*need to figure out how to center this better*/
 
 a:link, a:visited {
   color: lightcyan;
