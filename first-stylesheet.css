@@ -21,7 +21,8 @@ h4 {
 }
 
 nav {
-  text-align: center;
+  margin-left: 30;
+  font-size: 20px;
 }
 
 a:link, a:visited {
