@@ -47,15 +47,15 @@ aside {
   border: solid;
   border-color: white;
   border-width: thin;
-  margin-right: 1%;
-  width: 19%;
+  margin-right: 25%;
+  width: 27%;
   margin-top: 10px;
   margin-bottom: 10px;
 }
 
 figure {
   float: right;
-  width: 58%
+  width: 20%
 }
 
 figure img {
