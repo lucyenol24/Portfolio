@@ -1,7 +1,7 @@
 body {
   background-image: url(http://openwalls.com/image/3414/lightning_thunderstorm_1_2560x1600.jpg);
-  font-family: 'Inconsolata', monospace;
   text-align: center;
+  font-family: 'Inconsolata', monospace;
 }
 
 header {
@@ -77,7 +77,7 @@ footer {
   color: white;
   text-align: center;
   font-size: 20px;
-  background-color: lightgreen;
+  background-color: dimgray;
 }
 
 
