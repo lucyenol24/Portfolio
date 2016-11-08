@@ -9,6 +9,8 @@ header {
   text-align: center;
   padding: 0.5rem;
   background-color: rebeccapurple;
+  border-style: dashed;
+  border-color: white;
 }
 
 h1 {
@@ -79,4 +81,5 @@ footer {
   text-align: center;
   font-size: 20px;
   background-color: rebeccapurple;
+  border-style: dashed;
 }
