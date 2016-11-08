@@ -26,6 +26,7 @@ h4 {
 nav {
   margin-left: 30;
   font-size: 20px;
+  padding: 1rem;
 }
 
 a:link, a:visited {
