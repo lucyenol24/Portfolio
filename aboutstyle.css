@@ -61,6 +61,11 @@ p {
    color: white;
  }
 
+.switch:hover {
+  background-color: slateblue;
+  transition: width 1s, height 1s, background-color 1s;
+}
+
  aside {
    float: right;
    border: solid;
