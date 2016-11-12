@@ -30,12 +30,11 @@ a:link, a:visited {
   color: palevioletred;
 }
 
-
-
 footer {
   font-family: "Special Elite", cursive;
   width: 100%;
-  position: absolute;
+  position: fixed;
   color: azure;
   top: 75%;
+  bottom: 0;
 }
